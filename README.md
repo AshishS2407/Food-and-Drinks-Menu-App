@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 - Clone the forked repository to your local machine:
 
 ```bash
-git clone git@github.com:ashi/menu-manager.git
+git clone git@github.com:AshishS2407/Food-and-Drinks-Menu-App.git
 
 ```
 
