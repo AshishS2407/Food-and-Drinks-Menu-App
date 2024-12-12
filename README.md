@@ -12,14 +12,15 @@ The **Menu Manager App** is a platform that allows users to create, manage, and 
 - **Add Items**: Admins can add new items to existing menus with details like name, description, and price.
 - **Menu Display**: Users can view the available menus and items in a visually appealing layout.
 - **Mobile Responsive**: The app is designed to be mobile-friendly.
+- **User Admin Role Management is yet to be implemented
 
 ---
 
 ## 🛠️ Technologies Used
 
 - **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, json-server (for mock API)
-- **Database**: Mock data with **db.json** for testing
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDb
 
 ---
 
