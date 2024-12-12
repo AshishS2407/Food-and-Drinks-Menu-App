@@ -1,8 +1,8 @@
-# 🍽️ **Menu Manager App** 🍽️
+# 🍽️ **Food & Drinks Menu App** 🍽️
 
 **📄 PROJECT OVERVIEW**
 
-The **Menu Manager App** is a platform that allows users to create, manage, and add items to restaurant menus. Admins can view, add, and delete menus and items. The app is built with **React** for the frontend and a mock API backend using **json-server** to serve data.
+The **Food & Drinks Menu App** is a platform that allows users to create, manage, and add items to restaurant menus. Admins can view, add, and delete menus and items. The app is built with **React** for the frontend and a mock API backend using **json-server** to serve data.
 
 ---
 
